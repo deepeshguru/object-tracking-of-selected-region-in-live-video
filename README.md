@@ -10,4 +10,4 @@ After that we apply meanshift algorithm.
 python and opencv
 
 ## How to run
-Run code in python then live video window open, for track something in this video press 'b' and select that region after that press 'c' for track that region and press 'q' for quit.
+Run code in python then live video window open, for track something in this video press 'b' and select that region and press enter after that press 'c' for track that region and press 'q' for quit.
