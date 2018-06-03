@@ -1,4 +1,4 @@
-# Live-object-tracking-of-selected-region.
+# Object-tracking-of-selected-region-in-live-video 
 
 In this project we can track interested object in live video or in saved video using opencv and python.
 
